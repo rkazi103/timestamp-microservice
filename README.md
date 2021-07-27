@@ -15,25 +15,31 @@ Node + Express
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/rkazi103/timestamp-microservice
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd timestamp-microservice
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+  yarn
 ```
 
-Start the server
+Start the server in development
 
 ```bash
-  npm run start
+  yarn run dev
+```
+
+Start the server in production
+
+```bash
+  yarn start
 ```
 
 ## API Reference
