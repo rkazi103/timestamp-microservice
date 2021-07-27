@@ -2,8 +2,6 @@
 
 This is a simple timestamp microservice that I created. It is one out of the five FCC projects you need to complete in order to get the "APIs and Microservices" certification.
 
-This repo is where I wrote all of the code, but if you want to see the actual repository I submitted and deployed with, you can find that [here]().
-
 ## Authors
 
 - [@rkazi103](https://www.github.com/rkazi103)
