@@ -10,6 +10,11 @@ This is a simple timestamp microservice that I created. It is one out of the fiv
 
 Node + Express
 
+
+## Demo
+
+Click [here](http://fcc-timestamp-project-api.herokuapp.com/) to see a working demo of the project.
+
 ## Run Locally
 
 Clone the project
