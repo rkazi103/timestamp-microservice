@@ -66,7 +66,3 @@ Will return a JSON object containing the current time as a Unix timestamp and a 
 | Parameter | Type     | Description |
 | :-------- | :------- | :---------- |
 | `date`    | `string` | A date.     |
-
-## Feedback
-
-If you have any feedback, please email me at @rayan.quack.you@gmail.com
